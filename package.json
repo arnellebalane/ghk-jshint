@@ -1,0 +1,34 @@
+{
+  "name": "ghk-lint-js",
+  "version": "0.0.0",
+  "description": "git hook to lint js files before committing them",
+  "main": "distribution/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnellebalane/ghk-lint-js.git"
+  },
+  "keywords": [
+    "ghk-plugin",
+    "ghk",
+    "git",
+    "hooks",
+    "lint",
+    "js"
+  ],
+  "author": "Arnelle Balane <arnellebalane@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnellebalane/ghk-lint-js/issues"
+  },
+  "homepage": "https://github.com/arnellebalane/ghk-lint-js#readme",
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-plumber": "^1.0.1"
+  }
+}
