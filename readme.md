@@ -10,7 +10,7 @@ plugin for **[ghk](https://www.npmjs.com/package/ghk)** package
 #### installation
 
 ```
-$ npm install --save ghk-jshint
+$ npm install --save-dev ghk-jshint
 ```
 
 #### usage
