@@ -1,6 +1,6 @@
 {
   "name": "ghk-jshint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "git hook to lint js files with jshint before committing them",
   "main": "distribution/index.js",
   "scripts": {
