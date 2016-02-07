@@ -1,7 +1,8 @@
-ghk-lint-js
+ghk-jshint
 ===================
 
-git hook to lint js files before committing them
+git hook to lint js files with **[jshint](https://www.npmjs.com/package/jshint)**
+before committing them
 
 plugin for **[ghk](https://www.npmjs.com/package/ghk)** package
 
@@ -9,5 +10,5 @@ plugin for **[ghk](https://www.npmjs.com/package/ghk)** package
 #### installation
 
 ```
-$ npm install --save ghk-lint-js
+$ npm install --save ghk-jshint
 ```
